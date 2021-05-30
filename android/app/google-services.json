@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837391487312",
+    "project_id": "self-driving-car-fdecd",
+    "storage_bucket": "self-driving-car-fdecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837391487312:android:760cafd3f0945ac5145c55",
+        "android_client_info": {
+          "package_name": "com.example.self_driving_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837391487312-ejej4dqemc7fmm8pp1hv1q8nl9d7u77c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwVlVOGBqdtl8XdZg27AEIl4Rgr4OoDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837391487312-ejej4dqemc7fmm8pp1hv1q8nl9d7u77c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
